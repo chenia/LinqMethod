@@ -4,14 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestLinq
+namespace LinqMethod
 {
     class Program
     {
         static void Main(string[] args)
         {
             Method method = new Method();
-            bool result = method.TestSequenceEqual();
+            //bool result = method.TestSequenceEqual();
+            method.TestJoin();
+            Console.ReadKey();
 
         }
     }

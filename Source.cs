@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestLinq
+namespace LinqMethod
 {
     public class Source
     {
@@ -14,6 +14,6 @@ namespace TestLinq
 
         public string Category { get; set; }
       
-
+        public double Price { get; set; }
     }
 }
