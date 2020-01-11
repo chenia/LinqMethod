@@ -1,6 +1,0 @@
-F:\C#Pros\MyProject\TestLinq\bin\Debug\TestLinq.exe.config
-F:\C#Pros\MyProject\TestLinq\bin\Debug\TestLinq.exe
-F:\C#Pros\MyProject\TestLinq\bin\Debug\TestLinq.pdb
-F:\C#Pros\MyProject\TestLinq\obj\Debug\LinqMethod.csproj.CoreCompileInputs.cache
-F:\C#Pros\MyProject\TestLinq\obj\Debug\TestLinq.exe
-F:\C#Pros\MyProject\TestLinq\obj\Debug\TestLinq.pdb
